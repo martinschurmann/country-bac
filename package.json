@@ -1,0 +1,28 @@
+{
+  "name": "country-bac",
+  "version": "0.0.4",
+  "description": "JSON formatted data containing the BAC limit of the world's countries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinschurmann/country-bac.gitv"
+  },
+  "keywords": [
+    "country",
+    "city",
+    "state",
+    "json"
+  ],
+  "author": "martinschurmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinschurmann/country-bac/issues"
+  },
+  "homepage": "https://github.com/martinschurmann/country-bac#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
