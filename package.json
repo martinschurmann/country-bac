@@ -1,6 +1,6 @@
 {
   "name": "country-bac",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "JSON formatted data containing the BAC limit of the world's countries.",
   "main": "index.js",
   "scripts": {

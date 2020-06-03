@@ -53,5 +53,3 @@ module.exports = {
     getAvailableCountries,
     getAllCountries
 };
-
-console.log(getAllCountries())
