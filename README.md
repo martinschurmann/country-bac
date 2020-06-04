@@ -1,6 +1,8 @@
-# country-bac.js
+# Get the BAC (Blood Alcohol Concentration) level for driving by country.
 
-> Get the the BAC limit of a country.
+> Get the the legal BAC limit of a country.
+
+> The BAC limit information was downloaded from the WHO (World Health Organization) [here](https://apps.who.int/gho/data/view.main.54600) 
 
 ## Installation
 

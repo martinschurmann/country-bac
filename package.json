@@ -1,6 +1,6 @@
 {
   "name": "country-bac",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "JSON formatted data containing the BAC limit of the world's countries.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinschurmann/country-bac.gitv"
+    "url": "git+https://github.com/martinschurmann/country-bac.git"
   },
   "keywords": [
     "country",
